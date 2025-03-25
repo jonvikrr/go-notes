@@ -7,7 +7,8 @@ This repository contains structured **notes** and **code snippets** to help with
 
 The repository is divided into two main sections:  
 - **`notes/`** → Contains written explanations for each topic.  
-- **`code-examples/`** → Contains Go code snippets associated with the notes.  
+- **`code-examples/`** → Contains Go code snippets associated with the notes.
+- **`projects/`** → Contains Go projects associated with the notes.
 
 Each section follows the **same numbered structure** for consistency.  
 
